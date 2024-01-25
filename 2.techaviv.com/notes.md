@@ -14,3 +14,9 @@ https://jobs.techaviv.com/companies (not yet)
 
 ### status of scraping
 not yet
+
+### Todos
+- [] add images for all scraped data
+- [] complete pages
+    - [] https://jobs.techaviv.com/jobs
+    - [] https://jobs.techaviv.com/companies
