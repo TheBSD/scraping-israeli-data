@@ -1,13 +1,13 @@
 # Notes
 
 ### link scraping
-https://startupnationcentral.org/success-stories/
-https://startupnationcentral.org/management/
-https://startupnationcentral.org/resources
-https://finder.startupnationcentral.org/startups/search?&status=Active
-https://finder.startupnationcentral.org/investors/search?status=Active
-https://finder.startupnationcentral.org/hubs/search?&status=Active
-https://finder.startupnationcentral.org/multinationals/search?&status=Active
+- https://startupnationcentral.org/success-stories/
+- https://startupnationcentral.org/management/
+- https://startupnationcentral.org/resources
+- https://finder.startupnationcentral.org/startups/search?&status=Active
+- https://finder.startupnationcentral.org/investors/search?status=Active
+- https://finder.startupnationcentral.org/hubs/search?&status=Active
+- https://finder.startupnationcentral.org/multinationals/search?&status=Active
 
 ### date of scraping
 
