@@ -1,5 +1,5 @@
 from datetime import datetime
-from .utils import List, driver, By, data_from_person, dump_to_json
+from utils import List, driver, By, data_from_person, dump_to_json
 
 url = "https://www.techaviv.com"
 start_time = datetime.now()
