@@ -12,7 +12,6 @@
 28-01-2024
 
 ### status of scraping
-not yet
+completed
 
 ### Todos
-- [] add images for all scraped data
