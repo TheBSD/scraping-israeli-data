@@ -13,5 +13,3 @@
 
 ### status of scraping
 completed
-
-### Todos
